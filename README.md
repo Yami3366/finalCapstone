@@ -1,5 +1,5 @@
 <H3>Interface function description</H3>
-
+<p style="color:blue"> <font size="3">During the development process, it's crucial to consider the user's perspective. Functions should be extensively used to modularize the code and improve readability. Incorporating data verification functions helps ensure the reliability of input. Testing should be repeated multiple times to identify and rectify any issues. Additionally, adding colors enhances the user experience, making the operation screen more friendly and intuitive.</font></p>
 <img width="500" alt="tm_1" src="https://github.com/Yami3366/finalCapstone/assets/159643271/24454b9c-cdd8-48ef-a8cc-9dcbf2246010">
 <p style="color:blue"> <font size="3">User Admin logon</font></p>
 <img width="500" alt="tm_2" src="https://github.com/Yami3366/finalCapstone/assets/159643271/17b80f8c-db85-4df5-a4f4-b9bd9702631b">
