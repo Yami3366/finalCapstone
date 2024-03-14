@@ -15,5 +15,27 @@
 <img width="500" alt="tm_7" src="https://github.com/Yami3366/finalCapstone/assets/159643271/f6d582b4-be62-4b2a-8c1d-fa65d8132caa">
 <p style="color:blue"> <font size="3">choice ds- Display Statistics Report </font></p>
 <img width="500" alt="tm_8" src="https://github.com/Yami3366/finalCapstone/assets/159643271/e685674d-5bad-430a-9734-1cef3e8da8e9">
-<br>
-<img width="500" alt="tm_9" src="https://github.com/Yami3366/finalCapstone/assets/159643271/72208973-f2e2-490b-a6fb-9e7069be083c">
+<p style="color:blue"> <font size="3">Task Statistics Report</font></p>
+
+<img width="500" alt="tm_10" src="https://github.com/Yami3366/finalCapstone/assets/159643271/eeb8b1ee-0452-4054-88c3-5b8e095eee99">
+
+
+<p style="color:blue"> <font size="3">choice c- Chagne Password </font></p>
+<img width="500" alt="tm_12" src="https://github.com/Yami3366/finalCapstone/assets/159643271/a080825c-1bb6-4d55-9bc4-a1250c88c850">
+<p style="color:blue"> <font size="3">Passord vaild function </font></p>
+<img width="500" alt="tm_11" src="https://github.com/Yami3366/finalCapstone/assets/159643271/34de7cbb-e948-48c5-b8e4-8fd713ce0a4d">
+<p style="color:blue"> <font size="3">User Kiki logon ,display user limited function</font></p>
+<img width="500" alt="tm_13" src="https://github.com/Yami3366/finalCapstone/assets/159643271/ea601118-431b-4c31-8d5d-82eafd2d8d69">
+<p style="color:blue"> <font size="3">Choic va -  Views All Tasks </font></p>
+<img width="500" alt="tm_14" src="https://github.com/Yami3366/finalCapstone/assets/159643271/3a8fcf72-28bc-4ca3-9ef3-bf34347c2dd2">
+<p style="color:blue"> <font size="3">Choic vm -  Views My Tasks and reassign Task to BoBo </font></p>
+<img width="500" alt="tm_15" src="https://github.com/Yami3366/finalCapstone/assets/159643271/93dff33f-15fc-4d3a-a35f-c2ba911228ce">
+<p style="color:blue"> <font size="3">Choic vm -  Views My Tasks again ,display no task. </font></p>
+<img width="500" alt="tm_16" src="https://github.com/Yami3366/finalCapstone/assets/159643271/2b9d9b34-c932-4ea5-b8e1-464298003e90">
+<p style="color:blue"> <font size="3">Choic vm -  Views All Tasks again ,display no task. </font></p>
+
+
+
+
+
+  
